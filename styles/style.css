@@ -1205,7 +1205,7 @@ section {
 
 @media screen and (max-width: 680px) {
   .theme-btn {
-    top: 15%;
+    top: 10%;
   }
 }
 
@@ -1236,7 +1236,7 @@ section {
 
 @media screen and (max-width: 320px) {
   .theme-btn {
-    top: 15%;
+    top: 10%;
   }
 }
 /*# sourceMappingURL=style.css.map */
