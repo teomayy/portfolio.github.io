@@ -1187,4 +1187,19 @@ section {
     display: inline-grid;
   }
 }
+
+@media screen and (max-width: 430px) {
+  .main-title h2 {
+    font-size: 3rem;
+  }
+  .main-title h2 span {
+    font-size: 3rem;
+  }
+  .main-title h2 .bg-text {
+    font-size: 3.5rem;
+  }
+  .controls .control {
+    margin: .6rem .5rem;
+  }
+}
 /*# sourceMappingURL=style.css.map */

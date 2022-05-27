@@ -214,5 +214,28 @@
     .contact-content-con .left-contact .contact-info .contact-item
     {
         display: inline-grid;
+    }  
+}
+@media  screen and (max-width: 430px) {
+    .main-title
+    {
+        h2
+        {
+            font-size: 3rem;
+            span
+            {
+                font-size: 3rem;
+            }
+            .bg-text
+            {
+                font-size: 3.5rem;
+            }
+        }
+    }
+    .controls{
+        .control
+        {
+            margin: .6rem .5rem;
+        }
     }
 }
